@@ -50,3 +50,10 @@
    align-items: center;
    justify-content: center; 
 }
+.hero-right img {
+    max-width: 100%; 
+    max-height: 600px; 
+    width: auto; 
+    height: auto; 
+  }
+  
