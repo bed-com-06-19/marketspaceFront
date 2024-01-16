@@ -50,12 +50,14 @@
 .cartitems-total-item{
     display: flex;
     justify-content: space-between;
+    margin-top: 17px;
     padding: 15px opx;
 }
-.cartitems-total-button{
+.cartitems-total button{
     width: 262px;
     height: 58px;
     outline: none;
+    margin-bottom: 40px;
     border: none;
     background: #ff5a5a;
     color: #fff;
